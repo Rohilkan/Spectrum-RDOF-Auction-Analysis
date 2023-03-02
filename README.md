@@ -1,4 +1,4 @@
-# Spectrum_RDOF_Auction_Analysis
+# Spectrum RDOF Auction Analysis
 Conducting data analysis on FCC Auction 904 (Rural Digital Opportunity 
 Fund) for expanding high-speed, low-latency access to rural areas.
 I aim to discover outliers in winning bids by various geographical 
